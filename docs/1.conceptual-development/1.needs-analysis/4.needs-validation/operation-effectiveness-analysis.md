@@ -96,6 +96,8 @@ $$
 * Storage
 * Transportation
 
+> Disclaimer: At current level of development, certain operational modes, such as installation and transport, may not be warranted until further implementation details are materialized.
+
 ---
 
 ### Operational Scenarios
